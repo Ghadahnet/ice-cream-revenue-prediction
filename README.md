@@ -1,1 +1,1 @@
-# Proj
+If you have an ice cream business and want to predict your daily revenue based on the outside temperature in degrees Celsius, a Linear Regression model could be a good choice. This model can help you estimate how much money you might make on a given day, based on the temperature outside.
